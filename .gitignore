@@ -1,21 +1,19 @@
 # Python
 __pycache__/
-*.py[cod]
-*.egg-info/
-*.egg
+*.pyc
 *.pyo
 *.pyd
+*.sqlite3
 
 # Virtual environment
 .venv/
+env/
 venv/
-ENV/
 
-# IDE (PyCharm, VSCode etc.)
+# macOS
+.DS_Store
+._*
+
+# IDE
 .idea/
 .vscode/
-*.swp
-
-# OS files
-.DS_Store
-Thumbs.db
