@@ -2,9 +2,6 @@ class Solution(object):
     def reverse(self, x):
         INTEGER_MAX_INT = (2**31)-1
         INTEGER_MIN_INT = (-2**31)
-
-        if x > INTEGER_MAX_INT or x < INTEGER_MIN_INT:
-            return 0
         negative_num = x < 0
         revnum = 0
         x = abs(x)
