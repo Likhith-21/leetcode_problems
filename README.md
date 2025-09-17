@@ -3,3 +3,4 @@
 | # | Title | Solution | Language |
 |---|-------|----------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/1_Two_Sum.py) | Python |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](./python/9_Palindrome_Number.py) | Python |
